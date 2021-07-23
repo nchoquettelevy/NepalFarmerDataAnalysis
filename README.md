@@ -12,10 +12,11 @@ Hello! We are the Climate Induced Migration team, participating in the SESYNC 20
 Our team is working to better understand how climate change affects the use of migration by smallholder farmers in Nepal, and how different policy interventions, e.g. crop insurance, cash transfers, and migration support, may affect those choices. To do this, we are constructing an agent-based model (ABM) that simulates how farmers decide on livelihood strategies with different risk/reward profiles, as a function of information they receive from their social networks, changing climatic conditions, and policy interventions. A key goal of this work is to test how different theories of farmer decision-making may lead to different conclusions about the impacts of climate change and policy interventions.
 
 ![image](https://user-images.githubusercontent.com/49871094/126734961-657427b9-5e0c-459b-aa71-56fa461e596b.png)
+Photo Credit: Chitwan Valley Family Study
 
 ## SESYNC 2021 Summer Institute Goals
 
-In line with a pattern-oriented modelling approach (Grimm et al. 2005), we would to maximize the number of patterns we observe from empirical data on climate and smallholder farmer livelihood choices in order to test model assumptions. Specifically, we would like to analyze three patterns during the Summer Institute:
+In line with a pattern-oriented modelling approach ([Grimm et al. 2005](https://science.sciencemag.org/content/310/5750/987.full)), we would to maximize the number of patterns we observe from empirical data on climate and smallholder farmer livelihood choices in order to test model assumptions. Specifically, we would like to analyze three patterns during the Summer Institute:
 
 1) How are farmer decisions regarding the allocation of land to different crops related to their past crop yields?
 2) How do migration remittances depend on the number of migrants from a particular household?
