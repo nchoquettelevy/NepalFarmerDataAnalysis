@@ -1,18 +1,9 @@
-# NepalFarmerDataAnalysis
+# Nepal Farmer Data Analysis
 
 Hello! We are the Climate Induced Migration team, participating in the SESYNC 2021 Summer Institute. Specifically, we are:
 
 - Karena Yan, rising third-year student in Operations Research and Financial Engineering, Princeton University.
 
-<<<<<<< HEAD
-Our team is working to better understand how climate change affects the use of migration by smallholder farmers in Nepal, and how different policy interventions may affect those choices. To do this, we are constructing an agent-based model (ABM) that simulates how farmers decide on livelihood strategies with different risk/reward profiles, as a function of information they receive from their social networks, changing climatic conditions, and policy interventions. A key goal of this work is to test how different theories of farmer decision-making may lead to different conclusions about the impacts of climate change and policy interventions.# NepalFarmerDataAnalysis
-
-Hello! We are the Climate Induced Migration team, participating in the SESYNC 2021 Summer Institute. Specifically, we are:
-
-- Karena Yan, rising third-year student in Operations Research and Financial Engineering, Princeton University.
-
-=======
->>>>>>> 820f8be924647bb2a6c22fb29d3beb94fc40c11d
 - Nicolas Choquette-Levy ([@nchoquettelevy](https://twitter.com/nchoquettelevy)), PhD student in the School of Public and International Affairs at Princeton University.
 
 
@@ -34,8 +25,7 @@ In line with a pattern-oriented modelling approach ([Grimm et al. 2005](https://
 To address these questions, we are analyzing data from two main sources:
 
 1) The [Chitwan Valley Family Study](https://cvfs.isr.umich.edu/about/), which includes a longitudinal survey of 2,255 farming households in Nepal's Chitwan Valley. This survey includes annual, household-level data (2006-2015) on household cropping choices, crop production and yields, the number household migrants, and remittances received from migrants.
-<<<<<<< HEAD
+
 2) The [Standardized Precipitation and Evapotranspiration Index](https://spei.csic.es/spei_database/#map_name=spei03#map_position=1415), which provides gridded drought index data that calculates soil moisture balance as a function of temperature and precipitation. For this project, we are using the SPEI03 (3-month drought index) for the grid cell located at latitude = 27.75, longitude = 84.25, which contains the Chitwan Valley.
-=======
-2) The [Standardized Precipitation and Evapotranspiration Index](https://spei.csic.es/spei_database/#map_name=spei03#map_position=1415), which provides gridded drought index data that calculates soil moisture balance as a function of temperature and precipitation. For this project, we are using the SPEI03 (3-month drought index) for the grid cell located at latitude = , longitude = , which contains the Chitwan Valley.
->>>>>>> 820f8be924647bb2a6c22fb29d3beb94fc40c11d
+
+
